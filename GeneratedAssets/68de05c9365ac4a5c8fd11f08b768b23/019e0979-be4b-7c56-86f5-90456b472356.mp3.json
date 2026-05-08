@@ -1,0 +1,15 @@
+{
+    "asset": "68de05c9365ac4a5c8fd11f08b768b23",
+    "fileName": "019e0979-be4b-7c56-86f5-90456b472356.mp3",
+    "prompt": "relaxing but catchy upbeat menu music for a mobile puzzle game, acoustic guitar and light percussion",
+    "negativePrompt": "",
+    "model": "google-lyria-3-clip",
+    "modelName": "Google Lyria 3 Clip",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

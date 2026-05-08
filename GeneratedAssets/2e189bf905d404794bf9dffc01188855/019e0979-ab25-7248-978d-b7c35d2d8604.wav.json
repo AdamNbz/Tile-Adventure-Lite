@@ -1,0 +1,15 @@
+{
+    "asset": "2e189bf905d404794bf9dffc01188855",
+    "fileName": "019e0979-ab25-7248-978d-b7c35d2d8604.wav",
+    "prompt": "sad game over sound, losing jingle",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 3.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

@@ -1,0 +1,15 @@
+{
+    "asset": "e90d3753cb387457ba48e23dc799d859",
+    "fileName": "019e0976-666f-7f5a-9cc8-5238afa4d7ac.wav",
+    "prompt": "magical sparkling match sound for match-3 puzzle game",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 2.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

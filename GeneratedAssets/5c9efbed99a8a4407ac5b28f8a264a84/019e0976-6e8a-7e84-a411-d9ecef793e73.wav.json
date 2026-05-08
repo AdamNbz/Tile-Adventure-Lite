@@ -1,0 +1,15 @@
+{
+    "asset": "5c9efbed99a8a4407ac5b28f8a264a84",
+    "fileName": "019e0976-6e8a-7e84-a411-d9ecef793e73.wav",
+    "prompt": "short clean popping sound for mobile game UI tap",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}
